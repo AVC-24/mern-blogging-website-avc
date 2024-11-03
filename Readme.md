@@ -1,6 +1,20 @@
 # Fullstack MERN Blogging Website
 
-![full-logo](https://github.com/user-attachments/assets/ef32da1a-bec3-4c8e-b132-4fc4afb8a670)
+<svg width="100" height="100">
+  <defs>
+    <style>
+      @media (prefers-color-scheme: dark) {
+        .light-logo { display: none; }
+      }
+      @media (prefers-color-scheme: light) {
+        .dark-logo { display: none; }
+      }
+    </style>
+  </defs>
+  <image class="light-logo" href="https://github.com/user-attachments/assets/51def602-fc18-497b-9f15-a827da3263e2" 			width="100" height="100" />
+  <image class="dark-logo" href="https://github.com/user-attachments/assets/bdebcd4d-ecc7-4f53-a83f-6d10e4ef4309" width="100" height="100" />
+</svg>
+
 
 This website features include -
 1. Modern Blog Editor using Editor JS.
