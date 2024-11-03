@@ -1,5 +1,7 @@
 # Fullstack MERN Blogging Website
 
+![full-logo](https://github.com/user-attachments/assets/ef32da1a-bec3-4c8e-b132-4fc4afb8a670)
+
 This website features include -
 1. Modern Blog Editor using Editor JS.
 2. Dynamic Blog Pages on dynamic urls.
